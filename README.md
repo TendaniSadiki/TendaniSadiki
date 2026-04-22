@@ -21,8 +21,7 @@ const developer = {
     mobile: ["Expo", "EAS Build", "React Native"],
   },
 
-  currentlyBuilding: "KasiBasket — township commerce platform",
-  liveWork: "Instant Eats — https://instanteats.co.za/download.html",
+  liveWork: "Instant Eats: https://instanteats.co.za/download.html",
 
   philosophy: "Ship real things. Solve real problems. Keep learning.",
 };
@@ -69,16 +68,6 @@ Built with React, TypeScript, and an Nx monorepo alongside a team.
 
 ---
 
-### KasiBasket 🧺
-Township commerce platform connecting spaza shops, kota vendors, salons, and tuckshops with local customers across Gauteng.
-
-- Customer app: React Native + Expo
-- Business portal: React + Vite + Supabase
-- Subscription tiers with Yoco payments integration
-- Click-and-collect MVP with click and collect model
-
----
-
 ## My Journey
 
 | Year | The Story |
@@ -108,8 +97,6 @@ const myValue = {
     "Collaborative — worked with live clients and cross-functional teams",
     "Always building, always learning",
   ],
-
-  currentlyLearning: ["Python", "Linux", "ArduPilot / MAVLink", "Drone systems"],
 
   mantra: "Build things that matter. Ship them. Improve them.",
 };
